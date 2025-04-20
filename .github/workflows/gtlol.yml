@@ -12,7 +12,7 @@ jobs:
       - name: submit-to-bing
         uses: bojieyang/indexnow-action@v2
         with:
-          sitemap-location: "https://gtlol.com/sitemap.xml"
+          sitemap-location: "https://jgacg.cc/sitemap.xml"
           endpoint: "www.bing.com"
           limit: 100
           key: ${{ secrets.INDEXNOW_KEY }}
